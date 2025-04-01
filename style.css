@@ -15,11 +15,13 @@ td { width: 6%;}
     background-color: #532D63;
 }
 
-.fundo
-{
-    
-}
+.arrendondar {
+   background-color: #6A0DAD;
+   width: 10%;
+   height: 9vh;
+   border-radius: 30px;
 
+}
 
     
 
