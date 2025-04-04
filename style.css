@@ -7,6 +7,15 @@ table { width: 100%;
     height: 100vh;
     background-color: black;
     
+   * {
+    margin: 0%;
+    padding: 0%;
+    
+}
+table { width: 100%;
+    height: 100vh;
+    background-color: black;
+    
    
 
 }
@@ -64,9 +73,7 @@ text-decoration: none;}
      .center { text-align: center;}
 
 
-     .icone{
-        color: white;
-     }
+     
 
 
      .bottom 
@@ -74,9 +81,16 @@ text-decoration: none;}
         background-color: white;
         color: white;
         padding: 1em;
-        border-radius: 50px;
+        border-radius: 40px;
         text-decoration: none;
         
         
 
-   
+     }
+
+     .p {
+        color: #8E24AA;  
+        font-size: 15px;
+     }
+    
+
